@@ -1,1 +1,2 @@
 This is the branch file b1
+This is updated one in remote repository
